@@ -1,8 +1,9 @@
 # 📚 Shelfio
 
 Shelfio is a digital bookshelf application developed as a final project for the “Patterns and Frameworks” course during the Winter Semester 2025 at Berliner Hochschule für Technik (BHT).
-
 The project is a full-stack application consisting of a React-based frontend and a Spring Boot backend.  
+
+<img width="1435" height="683" alt="shelfio-dashboard" src="https://github.com/user-attachments/assets/a7a11d24-7b14-4344-a39e-a8ad18bd13da" />
 
 ---
 
