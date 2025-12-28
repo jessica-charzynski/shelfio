@@ -98,26 +98,3 @@ The backend runs on `http://localhost:8080`.
    ```
 
 The frontend runs on `http://localhost:8081`.
-
----
-
-## API Overview
-
-Examples of available endpoints:
-
-- `GET /api/books` - Get all books
-- `GET /api/books/latest` - Get latest book
-- `GET /api/books/recent` - Get recent books
-- `GET /api/books/count` - Get total book count
-- `POST /api/books` - Create a new book
-- `PUT /api/books/{id}/pages-read` - Update pages read
-- `PUT /api/books/{id}/status` - Update book status
-- `POST /api/books/{id}/review` - Add/update review
-- `DELETE /api/books/{id}` - Delete a book
-- `GET /api/collections` - Get all collections
-- `POST /api/collections` - Create a collection
-- `DELETE /api/collections/{id}` - Delete a collection
-- `POST /api/collections/{id}/books/{bookId}` - Add book to collection
-- `DELETE /api/collections/{id}/books/{bookId}` - Remove book from collection
-
-All API responses follow a consistent JSON structure.
